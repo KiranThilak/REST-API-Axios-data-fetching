@@ -1,6 +1,6 @@
 # Fetch Data from REST API in React using Axios
 
-This project is a simple demonstration of fetching data from a REST API using Axios in a React application. It showcases how to make HTTP requests to an API, retrieve data, and render it in a React component.
+This project is a simple demonstration of fetching data from a REST API using Axios in a React application. It showcases how to make HTTP requests to an API, retrieve data, and render it in Table format.
 
 ## Live Demo
 
