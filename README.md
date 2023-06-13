@@ -14,3 +14,4 @@ Check out the live demo of this project [here](https://rest-api-axios-data-fetch
 
 - Fetches data from a REST API using Axios in a React application.
 - Renders the fetched data in a React component.
+- Displaying data in table format
