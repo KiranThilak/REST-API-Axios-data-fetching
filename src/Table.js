@@ -4,7 +4,7 @@ const Table = ({ data }) => {
   return (
     <div className="max-w-2xl mx-auto px-5">
       <h3 className=" py-5 text-3xl text-gray-900 font-bold">
-        Data from REST API in REACT using Axios{" "}
+        Data from REST API in REACT using Axios
       </h3>
       <div className="flex flex-col">
         <div className="overflow-x-auto shadow-md sm:rounded-lg">
